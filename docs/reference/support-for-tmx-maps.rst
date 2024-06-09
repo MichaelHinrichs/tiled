@@ -491,7 +491,7 @@ Sprite Kit Framework
 TERRA Engine (Delphi/Pascal)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `TERRA Engine <http://pascalgameengine.com/>`__ supports loading and
+-  `TERRA Engine <https://github.com/Relfos/TERRA-Engine>`__ supports loading and
    rendering of TMX maps.
 
 Unity
