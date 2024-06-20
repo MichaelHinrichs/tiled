@@ -23,11 +23,11 @@ Installing Tiled
 
 Tiled is available for all major operating systems and can be downloaded either
 from [GitHub Releases](https://github.com/mapeditor/tiled/releases) or from
-[itch.io](https://thorbjorn.itch.io/tiled). Most Linux distributions also
+[<img height='20' alt='itch.io' src='https://static.itch.io/images/badge-color.svg'>](https://thorbjorn.itch.io/tiled). Most Linux distributions also
 package Tiled, but these packages are usually out of date so you might prefer
 to use the AppImage or install Tiled through
-[Flatpak](https://flathub.org/apps/org.mapeditor.Tiled) or
-[snap](https://snapcraft.io/tiled), both of which are official releases.
+[<img height='20' alt='Flatpak' src='https://flathub.org/api/badge?locale=en'/>](https://flathub.org/apps/org.mapeditor.Tiled) or
+[<img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" alt="snap" height="20"/>](https://snapcraft.io/tiled), both of which are official releases.
 
 ### Signed Releases for macOS and Windows
 
